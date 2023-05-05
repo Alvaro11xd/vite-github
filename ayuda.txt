@@ -1,0 +1,6 @@
+# iniciar nuevo proyecto
+npm create vite@latest
+npm i
+npm run dev
+# instalar gh pages (dependencia)
+npm i gh-pages -D
